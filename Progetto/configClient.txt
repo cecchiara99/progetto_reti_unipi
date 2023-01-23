@@ -1,0 +1,17 @@
+Esclusivamente le linee che iniziano per # sono valori legali dei parametri da assegnare
+
+Porta TCP
+
+# TCP = 6666
+
+Porta del Registry per callabck
+
+# REG_PORT = 7777
+
+Indirizzo IP Multicast
+
+# MC_IP = 239.255.255.0
+
+Porta di Multicast
+
+# MC_PORT = 10000

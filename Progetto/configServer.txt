@@ -1,0 +1,34 @@
+*** Esclusivamente le linee che iniziano per # sono valori legali dei parametri da assegnare ***
+
+Porta TCP
+
+# TCP = 6666
+
+Porta de registry RMI
+
+# PORT_REG = 8888
+
+Indirizzo Multicast
+
+# MC_IP = 239.255.255.0
+
+Porta Multicast
+
+# MC_PORT = 10000
+
+Timeout check ricompense
+
+# TIMEOUT = 10000
+
+Percetuale ricompensa Autore
+
+# PERC = 80
+
+Timeout della socket
+
+# S_TIMEOUT = 5000
+
+Timeout aggiornamento memoria
+
+# M_TIMEOUT = 10000
+

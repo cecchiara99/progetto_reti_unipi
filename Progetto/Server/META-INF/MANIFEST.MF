@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 17.0.2 (Eclipse Adoptium)
+Main-Class: Progetto.Server.MainServer
+Class-Path: gson-2.8.2.jar clientJar.jar
